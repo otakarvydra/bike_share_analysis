@@ -1,0 +1,103 @@
+station_id,station_name,station_latitude,station_longitude,start_station,city,neighbourhood,postcode
+3186,Grove St PATH,40.71958611647166,-74.04311746358871,True,Jersey City,Downtown Jersey City,07302
+3209,Brunswick St,40.7241765,-74.0506564,True,Jersey City,,07302
+3195,Sip Ave,40.73074262530658,-74.06378388404846,True,Jersey City,Indian Square,07306
+3211,Newark Ave,40.72152515,-74.046304543,True,Jersey City,,07302
+3187,Warren St,40.7211236,-74.03805095,True,Jersey City,Newport,07302
+3183,Exchange Place,40.7162469,-74.0334588,True,Jersey City,Downtown Jersey City,07302
+3213,Van Vorst Park,40.71848892,-74.047726625,True,Jersey City,,07302
+3193,Lincoln Park,40.7246050998869,-74.07840594649315,True,Jersey City,,07395
+3194,McGinley Square,40.7253399253558,-74.06762212514877,True,Jersey City,,07306
+3202,Newport PATH,40.7272235,-74.0337589,True,Jersey City,Newport,07310
+3196,Riverview Park,40.7443187,-74.0439909,True,Jersey City,,07087
+3214,Essex Light Rail,40.7127742,-74.0364857,True,Jersey City,Colgate Center,07302
+3207,Oakland Ave,40.7376037,-74.0524783,True,Jersey City,,07306
+3199,Newport Pkwy,40.7287448,-74.0321082,True,Jersey City,Newport,07310
+3203,Hamilton Park,40.727595966,-74.044247311,True,Jersey City,Newport,07302
+3210,Pershing Field,40.742677141,-74.051788633,True,Jersey City,,07307
+3190,Garfield Ave Station,40.7104670233797,-74.07003879547119,True,Jersey City,,07304
+3185,City Hall,40.7177325,-74.043845,True,Jersey City,Downtown Jersey City,07302
+3197,North St,40.752559,-74.044725,True,Jersey City,,07307
+3192,Liberty Light Rail,40.7112423,-74.0557013,True,Jersey City,,07302
+3212,Christ Hospital,40.734785818,-74.050443636,True,Jersey City,,07306
+3225,Baldwin at Montgomery,40.7236589,-74.0641943,True,Jersey City,,07306
+3215,Central Ave,40.7467299,-74.0492509,True,Jersey City,,07307
+3206,Hilltop,40.7311689,-74.0575736,True,Jersey City,Indian Square,07306
+3184,Paulus Hook,40.7141454,-74.0335519,True,Jersey City,Colgate Center,07302
+3205,JC Medical Center,40.71653978099194,-74.0496379137039,True,Jersey City,,07302
+3198,Heights Elevator,40.74871594538023,-74.04044330120087,True,Jersey City,,07307
+3220,5 Corners Library,40.73496102000952,-74.0595030784607,True,Jersey City,Indian Square,07306
+3191,Union St,40.7182113,-74.0836394,True,Jersey City,,07304
+3201,Dey St,40.737711,-74.066921,True,Jersey City,Indian Square,07306
+3217,Bayside Park,40.698650544,-74.082079678,True,Jersey City,,07305
+3188,NJCU,40.7101087,-74.0858489,True,Jersey City,,07305
+3200,MLK Light Rail,40.7111305,-74.0788855,True,Jersey City,,07304
+3216,Columbia Park,40.6970299,-74.0969366,True,Jersey City,,07305
+3189,West Side Light Rail,40.714402,-74.0887723,True,Jersey City,,07305
+3270,Jersey & 6th St,40.72528910781132,-74.04557168483734,True,Jersey City,,07302
+3267,Morris Canal,40.7124188237569,-74.03852552175522,True,Jersey City,Downtown Jersey City,07302
+3272,Jersey & 3rd,40.72333158646436,-74.04595255851744,True,Jersey City,,07302
+3268,Lafayette Park,40.71346382669195,-74.06285852193832,True,Jersey City,,07304
+3278,Monmouth and 6th,40.72568548362901,-74.04879033565521,True,Jersey City,,07302
+3279,Dixon Mills,40.721630142638354,-74.04996782541275,True,Jersey City,,07302
+3276,Marin Light Rail,40.71458403535893,-74.04281705617905,True,Jersey City,Downtown Jersey City,07302
+3273,Manila & 1st,40.72165072487999,-74.04288411140442,True,Jersey City,Newport,07302
+3275,Columbus Drive,40.71835519823214,-74.03891444206238,True,Jersey City,Downtown Jersey City,07302
+3274,Bethune Center,40.704957516728605,-74.08593088388443,True,Jersey City,,07305
+3281,Leonard Gordon Park,40.74590996631558,-74.0572714805603,True,Jersey City,,07307
+3271,Danforth Light Rail,40.69263996618329,-74.08801227807997,True,Jersey City,,07305
+3269,Brunswick & 6th,40.72601172964625,-74.05038893222809,True,Jersey City,,07302
+3280,Astor Place,40.71928220070702,-74.07126188278198,True,Jersey City,,07304
+3426,JCBS Depot,40.70965083364061,-74.06860113143921,True,Jersey City,,07304
+3277,Communipaw & Berry Lane,40.71435836870427,-74.06661093235016,True,Jersey City,,07304
+534,Water - Whitehall Plaza,40.70255065,-74.0127234,False,New York,Financial District,10004
+249,Harrison St & Hudson St,40.71870987,-74.0090009,False,New York,Tribeca,10013
+225,W 14 St & The High Line,40.74195138,-74.00803013,False,New York,Meatpacking District,10014
+276,Duane St & Greenwich St,40.71748752,-74.0104554,False,New York,Tribeca,10005
+403,E 2 St & 2 Ave,40.72502876,-73.99069656,False,New York,East Village,10012
+295,Pike St & E Broadway,40.71406667,-73.99293911,False,New York,Chinatown,10002
+430,York St & Jay St,40.7014851,-73.98656928,False,New York,Dumbo,11251
+2008,Little West St & 1 Pl,40.70569254,-74.01677685,False,New York,Battery Park City,10280
+405,Washington St & Gansevoort St,40.739323,-74.008119,False,New York,Meatpacking District,10014
+147,Greenwich St & Warren St,40.71542197,-74.01121978,False,New York,Tribeca,10014
+3178,Riverside Dr & W 78 St,40.78414472,-73.98362492,False,New York,,10023
+173,Broadway & W 49 St,40.76068327096592,-73.9845272898674,False,New York,,10019
+252,MacDougal St & Washington Sq,40.73226398,-73.99852205,False,New York,Greenwich Village,10014
+484,W 44 St & 5 Ave,40.75500254,-73.98014437,False,New York,,10036
+505,6 Ave & W 33 St,40.74901271,-73.98848395,False,New York,Herald Square,10019
+327,Vesey Pl & River Terrace,40.7153379,-74.01658354,False,New York,Battery Park City,10285
+363,West Thames St,40.70834698,-74.01713445,False,New York,Battery Park City,10280
+329,Greenwich St & North Moore St,40.72015227023285,-74.01036500930786,False,New York,Tribeca,10013
+457,Broadway & W 58 St,40.76695317,-73.98169333,False,New York,Columbus Circle,10019
+358,Christopher St & Greenwich St,40.73291553,-74.00711384,False,New York,West Village,10014
+315,South St & Gouverneur Ln,40.70355377,-74.00670227,False,New York,Financial District,10041
+477,W 41 St & 8 Ave,40.75640548,-73.9900262,False,New York,Theater District,10036
+428,E 3 St & 1 Ave,40.72467721,-73.98783413,False,New York,East Village,10009
+3002,South End Ave & Liberty St,40.711512,-74.015756,False,New York,Battery Park City,10005
+514,12 Ave & W 40 St,40.76087502,-74.00277668,False,New York,Hudson Yards,10199
+390,Duffield St & Willoughby St,40.69221589,-73.9842844,False,New York,,11201
+501,FDR Drive & E 35 St,40.744219,-73.97121214,False,New York,Murray Hill,10016
+351,Front St & Maiden Ln,40.70530954,-74.00612572,False,New York,Financial District,10045
+3265,E 2 St & 2 Ave E,40.7245634290432,-73.9894437789917,False,New York,East Village,10003
+304,Broadway & Battery Pl,40.70463334,-74.01361706,False,New York,Financial District,10275
+284,Greenwich Ave & 8 Ave,40.7390169121,-74.0026376103,False,New York,West Village,10014
+3314,W 95 St & Broadway,40.7937704,-73.971888,False,New York,,10025
+498,Broadway & W 32 St,40.74854862,-73.98808416,False,New York,Midtown South,10001
+3169,Riverside Dr & W 82 St,40.78720869,-73.98128127,False,New York,,10024
+380,W 4 St & 7 Ave S,40.73401143,-74.00293877,False,New York,West Village,10014
+3331,Riverside Dr & W 104 St,40.8013434,-73.9711457439,False,New York,Bloomingdale,10025
+386,Centre St & Worth St,40.71494807,-74.00234482,False,New York,Civic Center,10013
+427,Bus Slip & State St,40.701907,-74.013942,False,New York,Financial District,10004
+347,Greenwich St & W Houston St,40.728846,-74.008591,False,New York,Hudson Square,10014
+359,E 47 St & Park Ave,40.75510267,-73.97498696,False,New York,Midtown East,10017
+426,West St & Chambers St,40.71754834,-74.01322069,False,New York,Battery Park City,10282
+3085,Roebling St & N 4 St,40.71469,-73.95739,False,New York,,11249
+360,William St & Pine St,40.70717936,-74.00887308,False,New York,Financial District,10270
+328,Watts St & Greenwich St,40.72405549,-74.00965965,False,New York,Tribeca,10005
+446,W 24 St & 7 Ave,40.74487634,-73.99529885,False,New York,Chelsea District,10011
+520,W 52 St & 5 Ave,40.75992262,-73.97648516,False,New York,,10019
+2004,6 Ave & Broome St,40.724399,-74.004704,False,New York,Hudson Square,10005
+393,E 5 St & Avenue C,40.72299208,-73.97995466,False,New York,East Village,10009
+401,Allen St & Rivington St,40.72019576,-73.98997825,False,New York,Lower East Side,10002
+376,John St & William St,40.70862144,-74.00722156,False,New York,Financial District,10038
+224,Spruce St & Nassau St,40.71146364,-74.00552427,False,New York,Financial District,10038
