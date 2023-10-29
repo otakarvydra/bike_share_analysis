@@ -1,4 +1,4 @@
-## Bike Rental Analysis
+## Bike Share Analysis
 
 This project was completed as part of the data engineering course on codecademy. 
 
