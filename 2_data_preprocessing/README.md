@@ -1,8 +1,9 @@
 ## Data Preprocessing
 
 This folder includes two Jupyter notebooks that preprocess the raw data for analysis.
-
-The output of this step are 3 separate csv files: 
+<br>
+The output of this step are 3 separate csv files:
+<br>
 1. weather - This file includes all relevant weather metrics for each day of 2016. 
 2. rides - This file includes all rides taken and info related to them. 
 3. stations - This file includes all the active stations in the citibike sharing system.
