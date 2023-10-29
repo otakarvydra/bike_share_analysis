@@ -1,3 +1,5 @@
+## Database and Views Creation
+
 This folder includes the database schema as a PDF file and the database views (Including both SQL querries and the .csv output) that are used to answer the relevant questions. The views are then used as source tables for visuals in the POWERBI report. 
 The questions and the reasons why they are asked is mentioned in the executive summary of the whole project. 
 
